@@ -1,0 +1,4 @@
+
+export let GET_REQUEST="GET_REQUEST";
+export let GET_SUCCESS="GET_SUCCESS";
+export let GET_ERROR="GET_ERROR";
