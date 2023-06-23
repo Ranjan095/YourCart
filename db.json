@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Walking Sports Shoes for Men",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/g/p/7-rso202-7-red-tape-white-original-imagm3qzvbzxhp8z.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/g/p/7-rso202-7-red-tape-white-original-imagm3qzvbzxhp8z.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/a/t/10-rso202-10-red-tape-grey-original-imagp6zhwdytc3uf.jpeg?q=70",
@@ -13,8 +14,9 @@
       "discription": "Walking Sports Shoes for Men | Soft Cushioned Insole, Slip-Resistance Training & Gym Shoes For Men  (White)",
       "brand": "puma",
       "category": "men",
-      "size": [6,7,8,9,10],
-      "price": 1199,
+      "size": [6, 7, 8, 9, 10],
+      "mrp": 1199,
+      "sp":959,
       "rating": 4.5,
       "offer": 20,
       "color": "white"
@@ -22,6 +24,7 @@
     {
       "id": 2,
       "title": "STREET-RUN Running Shoes For Men  (Grey)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/r/j/c/-original-imaghvb8a8hjrfmr.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/r/j/c/-original-imaghvb8a8hjrfmr.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/k/a/2/10-11g-772-10-campus-l-gry-original-imaghzuuhqjheshc.jpeg?q=70",
@@ -33,15 +36,17 @@
       "discription": "STREET-RUN Running Shoes For Men  (Grey)",
       "brand": "campus",
       "category": "men",
-      "size": [6,7,8,9,10,11,12],
-      "price": 1399,
+      "size": [6, 7, 8, 9, 10, 11, 12],
+      "mrp": 1399,
+      "sp":1035,
       "rating": 4.1,
       "offer": 26,
-      "color": "white"
+      "color": "grey"
     },
     {
       "id": 3,
       "title": "Sneakers For Men  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/shoe/g/s/u/11-rso187-redtape-black-white-original-imagg4cafq4xhwcz.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/shoe/g/s/u/11-rso187-redtape-black-white-original-imagg4cafq4xhwcz.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/l5fnhjk0/shoe/h/n/a/11-rso187-redtape-black-white-original-imagg4cabrjpzzqx.jpeg?q=70",
@@ -53,15 +58,17 @@
       "discription": "Sneakers For Men  (Black)",
       "brand": "puma",
       "category": "men",
-      "size": [8,9,10],
-      "price": 5399,
-      "rating": 43,
+      "size": [8, 9, 10],
+      "mrp": 5399,
+      "sp":1079,
+      "rating": 4.3,
       "offer": 80,
       "color": "black"
     },
     {
       "id": 4,
       "title": "Athleo ATG-496 Breathable",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/f/s/c/10-atg-496-10-action-white-original-imaghfmkyrbcyfhw.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/f/s/c/10-atg-496-10-action-white-original-imaghfmkyrbcyfhw.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/5/l/r/-original-imagpb4zsezbzxft.jpeg?q=70",
@@ -72,15 +79,17 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6,8,10],
-      "price": 2799,
+      "size": [6, 8, 10],
+      "mrp": 2799,
+      "sp":923,
       "rating": 4.5,
       "offer": 67,
-      "color": "white"
+      "color": "grey"
     },
     {
       "id": 5,
       "title": "Athleo ATG-496 Breathable",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/3/o/9-spt-496-maroon-9-action-maroon-original-imaghym3gdsqyvr6.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/3/o/9-spt-496-maroon-9-action-maroon-original-imaghym3gdsqyvr6.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/q/t/1/9-spt-496-maroon-9-action-maroon-original-imaghym37xufdgwa.jpeg?q=70",
@@ -91,8 +100,9 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6,8,10],
-      "price": 2799,
+      "size": [6, 8, 10],
+      "mrp": 2799,
+      "sp":923,
       "rating": 4.5,
       "offer": 67,
       "color": "red"
@@ -100,6 +110,7 @@
     {
       "id": 6,
       "title": "Athleo ATG-496 Breathable",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/t/6/d/9-atg-496-action-black-dark-grey-original-imagqjmnjvfprvek.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/t/6/d/9-atg-496-action-black-dark-grey-original-imagqjmnjvfprvek.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/y/9/i/9-atg-496-action-black-dark-grey-original-imagqjmn4sghkmhw.jpeg?q=70",
@@ -110,8 +121,9 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6,8,10],
-      "price": 2799,
+      "size": [6, 8, 10],
+      "mrp": 2799,
+      "sp":923,
       "rating": 4.5,
       "offer": 67,
       "color": "black"
@@ -119,6 +131,7 @@
     {
       "id": 7,
       "title": "Sterlinn M Running Shoes For Men  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/n/d/z/-original-imagzevjkugvkecu.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/n/d/z/-original-imagzevjkugvkecu.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/x/j/g/-original-imagzevja8vexfc4.jpeg?q=70",
@@ -129,8 +142,9 @@
       "discription": "Sterlinn M Running Shoes For Men  (White)",
       "brand": "adidas",
       "category": "men",
-      "size": [6,7,9,10],
-      "price": 5599,
+      "size": [6, 7, 9, 10],
+      "mrp": 5599,
+      "sp":2967,
       "rating": 4.3,
       "offer": 47,
       "color": "white"
@@ -138,6 +152,7 @@
     {
       "id": 8,
       "title": "Sterlinn M Running Shoes For Men  (black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/f/i/-original-imagzevjqtzrzrvx.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/f/i/-original-imagzevjqtzrzrvx.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/z/d/h/-original-imagzevjn8sawtvq.jpeg?q=70",
@@ -148,8 +163,9 @@
       "discription": "Sterlinn M Running Shoes For Men  (black)",
       "brand": "adidas",
       "category": "men",
-      "size": [6,7,9,10],
-      "price": 5599,
+      "size": [6, 7, 9, 10],
+      "mrp": 5599,
+      "sp":2967,
       "rating": 4.3,
       "offer": 47,
       "color": "black"
@@ -157,19 +173,21 @@
     {
       "id": 9,
       "title": "RUNFALCON 3.0 Running Shoes For Men  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/r/w/-original-imagqfwcehfzgrrh.jpeg?q=70",
       "images": [
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/r/w/-original-imagqfwcehfzgrrh.jpeg?q=70",
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/n/m/5/-original-imagmdbw9uyhnwee.jpeg?q=70",
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/w/y/f/-original-imagmdbwhg8gzhy7.jpeg?q=70",
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/g/f/x/-original-imagmdbwzctdnzxs.jpeg?q=70",
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/d/c/n/-original-imagmdbwukzmy8ur.jpeg?q=70",
-"https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/p/w/-original-imagmdbwyagywxzg.jpeg?q=70"
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/r/w/-original-imagqfwcehfzgrrh.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/n/m/5/-original-imagmdbw9uyhnwee.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/w/y/f/-original-imagmdbwhg8gzhy7.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/g/f/x/-original-imagmdbwzctdnzxs.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/d/c/n/-original-imagmdbwukzmy8ur.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/v/p/w/-original-imagmdbwyagywxzg.jpeg?q=70"
       ],
       "discription": "RUNFALCON 3.0 Running Shoes For Men  (Black)",
       "brand": "adidas",
       "category": "men",
-      "size": [6,7,8,9,10],
-      "price": 5999,
+      "size": [6, 7, 8, 9, 10],
+      "mrp": 5999,
+      "sp":3479,
       "rating": 4.2,
       "offer": 42,
       "color": "black"
@@ -177,6 +195,7 @@
     {
       "id": 10,
       "title": "SUPERNOVA 2 M Running Shoes For Men  (Red)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/0/z/c/-original-imagngfvsgrv73yq.jpeg?q=70",
       "images": [
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/0/z/c/-original-imagngfvsgrv73yq.jpeg?q=70",
         "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/p/s/c/-original-imagngfv57z34hpx.jpeg?q=70",
@@ -188,8 +207,9 @@
       "discription": "SUPERNOVA 2 M Running Shoes For Men  (Red)",
       "brand": "adidas",
       "category": "men",
-      "size": [6,7,8,9,10],
-      "price": 9999,
+      "size": [6, 7, 8, 9, 10],
+      "mrp": 9999,
+      "sp":6299,
       "rating": 4.1,
       "offer": 37,
       "color": "red"
@@ -204,7 +224,7 @@
       "brand": "",
       "category": "",
       "size": [],
-      "price": 1199,
+      "mrp": 1199,
       "rating": 4.5,
       "offer": 20,
       "color": ""

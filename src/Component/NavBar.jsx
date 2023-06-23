@@ -1,7 +1,7 @@
 /** @format */
 
 import React from "react";
-
+import "./NavBar.css";
 import logo from "../utils/photos/logo.png";
 import {
   Box,
@@ -21,6 +21,7 @@ import {
   useDisclosure,
   Avatar,
   Image,
+  Heading,
 } from "@chakra-ui/react";
 import {
   HamburgerIcon,
@@ -32,7 +33,7 @@ import {
 const NavBar = () => {
   const { isOpen, onToggle } = useDisclosure();
   return (
-    <Box>
+    <Box id="NabBar">
       <Flex
         bg={useColorModeValue("white", "gray.800")}
         color={useColorModeValue("gray.600", "white")}
@@ -59,7 +60,10 @@ const NavBar = () => {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: "center", md: "start" }}>
-         <Link href="/"> <Avatar  name="Dan Abrahmov" src={logo} /></Link>
+          <Link href="/">
+            {" "}
+            <Avatar name="Dan Abrahmov" src={logo} />
+          </Link>
 
           <Flex display={{ base: "none", md: "flex" }} ml={10}>
             <DesktopNav />
@@ -72,6 +76,11 @@ const NavBar = () => {
           direction={"row"}
           spacing={6}
         >
+          <Box id="cart-box">
+            <Heading className="cart-item" size={"md"}>
+              {10}
+            </Heading>
+          </Box>
           <Button
             as={"a"}
             fontSize={"sm"}
@@ -265,20 +274,20 @@ const NAV_ITEMS = [
     label: "Shoes",
     href: "/shoes",
     children: [
-        {
-            label: "Kids",
-            subLabel: "Explore Design Shoes",
-            href: "#",
-          },
+      {
+        label: "Kids",
+        subLabel: "Explore Design Shoes",
+        href: "/shoes?category=kids",
+      },
       {
         label: "Men",
         subLabel: "Explore Design Shoes",
-        href: "#",
+        href: "/shoes?category=men",
       },
       {
         label: "Women",
         subLabel: "Explore Design Shoes",
-        href: "#",
+        href: "/shoes?category=women",
       },
     ],
   },

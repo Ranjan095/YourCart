@@ -6,6 +6,8 @@ import Login from '../Pages/Login'
 import Register from '../Pages/Register'
 import Shoes from '../Pages/Shoes'
 import Watch from '../Pages/Watch'
+import SingleShoesPage from './SingleShoesPage'
+
 
 const AllRoutes = () => {
   return (
@@ -14,6 +16,7 @@ const AllRoutes = () => {
             <Route path='/' element={<Home/>}/>
             <Route path='/shoes' element={<Shoes/>}/>
             <Route path='/watch' element={<Watch/>}/>
+            <Route path='/singleShoesPage/:id' element={<SingleShoesPage/>}/>
 
             <Route path='/about' element={<About/>}/>
             <Route path='/login' element={<Login/>}/>
