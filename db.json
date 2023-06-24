@@ -14,9 +14,15 @@
       "discription": "Walking Sports Shoes for Men | Soft Cushioned Insole, Slip-Resistance Training & Gym Shoes For Men  (White)",
       "brand": "puma",
       "category": "men",
-      "size": [6, 7, 8, 9, 10],
+      "size": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "mrp": 1199,
-      "sp":959,
+      "sp": 959,
       "rating": 4.5,
       "offer": 20,
       "color": "white"
@@ -36,9 +42,17 @@
       "discription": "STREET-RUN Running Shoes For Men  (Grey)",
       "brand": "campus",
       "category": "men",
-      "size": [6, 7, 8, 9, 10, 11, 12],
+      "size": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "mrp": 1399,
-      "sp":1035,
+      "sp": 1035,
       "rating": 4.1,
       "offer": 26,
       "color": "grey"
@@ -58,9 +72,13 @@
       "discription": "Sneakers For Men  (Black)",
       "brand": "puma",
       "category": "men",
-      "size": [8, 9, 10],
+      "size": [
+        8,
+        9,
+        10
+      ],
       "mrp": 5399,
-      "sp":1079,
+      "sp": 1079,
       "rating": 4.3,
       "offer": 80,
       "color": "black"
@@ -79,9 +97,13 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6, 8, 10],
+      "size": [
+        6,
+        8,
+        10
+      ],
       "mrp": 2799,
-      "sp":923,
+      "sp": 923,
       "rating": 4.5,
       "offer": 67,
       "color": "grey"
@@ -100,9 +122,13 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6, 8, 10],
+      "size": [
+        6,
+        8,
+        10
+      ],
       "mrp": 2799,
-      "sp":923,
+      "sp": 923,
       "rating": 4.5,
       "offer": 67,
       "color": "red"
@@ -121,9 +147,13 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [6, 8, 10],
+      "size": [
+        6,
+        8,
+        10
+      ],
       "mrp": 2799,
-      "sp":923,
+      "sp": 923,
       "rating": 4.5,
       "offer": 67,
       "color": "black"
@@ -142,9 +172,14 @@
       "discription": "Sterlinn M Running Shoes For Men  (White)",
       "brand": "adidas",
       "category": "men",
-      "size": [6, 7, 9, 10],
+      "size": [
+        6,
+        7,
+        9,
+        10
+      ],
       "mrp": 5599,
-      "sp":2967,
+      "sp": 2967,
       "rating": 4.3,
       "offer": 47,
       "color": "white"
@@ -163,9 +198,14 @@
       "discription": "Sterlinn M Running Shoes For Men  (black)",
       "brand": "adidas",
       "category": "men",
-      "size": [6, 7, 9, 10],
+      "size": [
+        6,
+        7,
+        9,
+        10
+      ],
       "mrp": 5599,
-      "sp":2967,
+      "sp": 2967,
       "rating": 4.3,
       "offer": 47,
       "color": "black"
@@ -185,9 +225,15 @@
       "discription": "RUNFALCON 3.0 Running Shoes For Men  (Black)",
       "brand": "adidas",
       "category": "men",
-      "size": [6, 7, 8, 9, 10],
+      "size": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "mrp": 5999,
-      "sp":3479,
+      "sp": 3479,
       "rating": 4.2,
       "offer": 42,
       "color": "black"
@@ -207,9 +253,15 @@
       "discription": "SUPERNOVA 2 M Running Shoes For Men  (Red)",
       "brand": "adidas",
       "category": "men",
-      "size": [6, 7, 8, 9, 10],
+      "size": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "mrp": 9999,
-      "sp":6299,
+      "sp": 6299,
       "rating": 4.1,
       "offer": 37,
       "color": "red"
@@ -224,10 +276,40 @@
       "brand": "",
       "category": "",
       "size": [],
-      "mrp": 1199,
-      "rating": 4.5,
+      "mrp": 1000,
       "offer": 20,
+      "sp": 800,
+      "rating": 4.5,
       "color": ""
+    }
+  ],
+  "user": [
+    {
+      "firstName": "Sandhya",
+      "lastName": "Dubey",
+      "email": "sandy@gmail.com",
+      "password": "sandhya123",
+      "address": [],
+      "cart": [],
+      "id": 1
+    },
+    {
+      "firstName": "Ranjan",
+      "lastName": "Yadav",
+      "email": "iranjan095@gmail.com",
+      "password": "abc123",
+      "address": [],
+      "cart": [],
+      "id": 2
+    },
+    {
+      "firstName": "Ranjan",
+      "lastName": "Yadav",
+      "email": "iranjan095@gmail.com",
+      "password": "rky123@",
+      "address": [],
+      "cart": [],
+      "id": 3
     }
   ]
 }

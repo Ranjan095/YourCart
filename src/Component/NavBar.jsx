@@ -29,6 +29,7 @@ import {
   ChevronDownIcon,
   ChevronRightIcon,
 } from "@chakra-ui/icons";
+import { Link as ReactLink } from "react-router-dom";
 
 const NavBar = () => {
   const { isOpen, onToggle } = useDisclosure();
@@ -60,10 +61,10 @@ const NavBar = () => {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: "center", md: "start" }}>
-          <Link href="/">
+          <ReactLink to={"/"}>
             {" "}
             <Avatar name="Dan Abrahmov" src={logo} />
-          </Link>
+          </ReactLink>
 
           <Flex display={{ base: "none", md: "flex" }} ml={10}>
             <DesktopNav />
@@ -78,15 +79,16 @@ const NavBar = () => {
         >
           <Box id="cart-box">
             <Heading className="cart-item" size={"md"}>
-              {10}
+              {3}
             </Heading>
           </Box>
+
           <Button
             as={"a"}
             fontSize={"sm"}
             fontWeight={400}
             variant={"link"}
-            href={"#"}
+            href={"/login"}
           >
             Login
           </Button>
@@ -97,7 +99,7 @@ const NavBar = () => {
             fontWeight={600}
             color={"white"}
             bg={"pink.400"}
-            href={"#"}
+            href={"/register"}
             _hover={{
               bg: "pink.300",
             }}
@@ -127,21 +129,8 @@ const DesktopNav = () => {
         <Box key={navItem.label}>
           <Popover trigger={"hover"} placement={"bottom-start"}>
             <PopoverTrigger>
-              <Link
-                p={2}
-                href={navItem.href ?? "#"}
-                fontSize={"sm"}
-                fontWeight={500}
-                color={linkColor}
-                _hover={{
-                  textDecoration: "none",
-                  color: linkHoverColor,
-                }}
-              >
-                {navItem.label}
-              </Link>
+              <ReactLink to={navItem.href}> {navItem.label}</ReactLink>
             </PopoverTrigger>
-
             {navItem.children && (
               <PopoverContent
                 border={0}
@@ -167,8 +156,8 @@ const DesktopNav = () => {
 
 const DesktopSubNav = ({ label, href, subLabel }) => {
   return (
-    <Link
-      href={href}
+    <ReactLink
+      to={href}
       role={"group"}
       display={"block"}
       p={2}
@@ -198,7 +187,7 @@ const DesktopSubNav = ({ label, href, subLabel }) => {
           <Icon color={"pink.400"} w={5} h={5} as={ChevronRightIcon} />
         </Flex>
       </Stack>
-    </Link>
+    </ReactLink>
   );
 };
 
@@ -259,9 +248,9 @@ const MobileNavItem = ({ label, children, href }) => {
         >
           {children &&
             children.map((child) => (
-              <Link key={child.label} py={2} href={child.href}>
+              <ReactLink key={child.label} py={2} to={child.href}>
                 {child.label}
-              </Link>
+              </ReactLink>
             ))}
         </Stack>
       </Collapse>
@@ -313,6 +302,6 @@ const NAV_ITEMS = [
   },
   {
     label: "About",
-    href: "/about",
+    href: "#",
   },
 ];

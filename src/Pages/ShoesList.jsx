@@ -12,8 +12,8 @@ import {
 import React, { useState } from "react";
 import "./shoes.css";
 import { Link } from "react-router-dom";
-import { SIZE, SP } from "../Redux/Shoes/action";
 import SideBarShoes from "../Component/SideBarShoes";
+import { SIZE } from "../utils/assets";
 
 const ShoesList = ({ shoes }) => {
   let [imageNum, setImageNum] = useState(0);

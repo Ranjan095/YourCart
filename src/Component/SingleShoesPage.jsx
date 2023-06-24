@@ -4,7 +4,6 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
 import { useParams } from "react-router-dom";
-import { SIZE, SP, baseURL } from "../Redux/Shoes/action";
 import {
   GET_SINGLE_SHOES_ERROR,
   GET_SINGLE_SHOES_REQUEST,
@@ -35,6 +34,7 @@ import { FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
 import { MdLocalShipping } from "react-icons/md";
 import { AiFillStar } from "react-icons/ai";
 import { initializeUseSelector } from "react-redux/es/hooks/useSelector";
+import { baseURL } from "../utils/assets";
 
 const SingleShoesPage = () => {
   let [shoes, setShoes] = useState({});
@@ -46,7 +46,7 @@ const SingleShoesPage = () => {
   let getSingleShoes = () => {
     dispatch({ type: GET_SINGLE_SHOES_REQUEST });
     axios
-      .get(`${baseURL}/${id}`)
+      .get(`${baseURL}/shoes/${id}`)
       .then((res) => {
         dispatch({ type: GET_SINGLE_SHOES_SUCCESS });
         let data = res.data;
@@ -126,7 +126,7 @@ const SingleShoesPage = () => {
             <Box textTransform={"uppercase"}>
               <Text>{shoes?.discription}</Text>
             </Box>
-            <Box>
+            {/* <Box>
               <Text
                 fontSize={{ base: "16px", lg: "18px" }}
                 color={useColorModeValue("yellow.500", "yellow.300")}
@@ -149,7 +149,7 @@ const SingleShoesPage = () => {
                   <ListItem>Small seconds</ListItem>
                 </List>
               </SimpleGrid>
-            </Box>
+            </Box> */}
             <Box>
               <Text
                 fontSize={{ base: "16px", lg: "18px" }}
