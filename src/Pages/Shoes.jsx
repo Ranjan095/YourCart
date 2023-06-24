@@ -4,38 +4,54 @@ import axios from "axios";
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getData } from "../Redux/Shoes/action";
-import { Box, Flex, SimpleGrid, grid } from "@chakra-ui/react";
+import {
+  Box,
+  Flex,
+  Heading,
+  SimpleGrid,
+  Spinner,
+  grid,
+} from "@chakra-ui/react";
 import ShoesList from "./ShoesList";
 import "./shoes.css";
 import SideBarShoes from "../Component/SideBarShoes";
 import { useLocation, useSearchParams } from "react-router-dom";
 const Shoes = () => {
-  let location =useLocation()
+  let location = useLocation();
   let [searchParams] = useSearchParams();
   let dispatch = useDispatch();
 
-  let order=searchParams.get("order")
+  let order = searchParams.get("order");
 
   let obj = {
     params: {
-      _sort:order && "sp",
-      _order:order,
+      _sort: order && "sp",
+      _order: order,
       brand: searchParams.getAll("brand"),
       category: searchParams.getAll("category"),
-      color:searchParams.getAll("color")
+      color: searchParams.getAll("color"),
     },
-    
   };
-// console.log(location)
+  // console.log(location)
   useEffect(() => {
     dispatch(getData(obj));
   }, [location.search]);
 
-  let store = useSelector((store) => store.shoesReducer);
-  // console.log(store);
-  let { isLoading, isError, shoes } = store;
+  let { isLoading, isError, shoes } = useSelector(
+    (store) => store.shoesReducer
+  );
+
   // console.log(shoes)
-  return (
+  return isLoading ? (
+    <Spinner
+      className="loading"
+      thickness="4px"
+      speed="0.65s"
+      emptyColor="gray.200"
+      color="blue.500"
+      size="xl"
+    />
+  ) : (
     <Box id="shoes-page-container">
       <Flex>
         <Box>

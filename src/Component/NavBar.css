@@ -17,4 +17,7 @@
 
 .cart-item {
     color:red;
+    border-radius: 50%;
+   background-position: center;
+   background: white;
 }
