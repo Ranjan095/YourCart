@@ -30,9 +30,16 @@ import {
   ChevronRightIcon,
 } from "@chakra-ui/icons";
 import { Link as ReactLink } from "react-router-dom";
+import { useSelector } from "react-redux";
 
 const NavBar = () => {
   const { isOpen, onToggle } = useDisclosure();
+
+  let { cart } = useSelector(
+    (store) => store.cartReducer
+  );
+  console.log(cart)
+
   return (
     <Box id="NabBar">
       <Flex
@@ -79,7 +86,7 @@ const NavBar = () => {
         >
           <Box id="cart-box">
             <Heading className="cart-item" size={"md"}>
-              {3}
+              {cart.length}
             </Heading>
           </Box>
 

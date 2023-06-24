@@ -35,6 +35,7 @@ import { MdLocalShipping } from "react-icons/md";
 import { AiFillStar } from "react-icons/ai";
 import { initializeUseSelector } from "react-redux/es/hooks/useSelector";
 import { baseURL } from "../utils/assets";
+import { ADD_TO_CART } from "../Redux/Cart/cartType";
 
 const SingleShoesPage = () => {
   let [shoes, setShoes] = useState({});
@@ -210,6 +211,7 @@ const SingleShoesPage = () => {
 
           <HStack>
             <Button
+            onClick={()=>dispatch({type:ADD_TO_CART,payload:shoes})}
               rounded={"none"}
               w={"full"}
               mt={8}
