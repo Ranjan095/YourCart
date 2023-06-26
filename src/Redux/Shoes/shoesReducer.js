@@ -13,7 +13,7 @@ const shoesReducer = (state = initialState, { type, payload }) => {
       return { ...state, isLoading: true };
     }
     case GET_SUCCESS: {
-      return { ...state, isLoading: false, shoes: payload };
+      return { ...state, isLoading: false, shoes: [...payload] };
     }
     case GET_ERROR: {
       return { ...state, isLoading: false, isError: true };

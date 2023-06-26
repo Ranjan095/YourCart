@@ -95,12 +95,19 @@ const SingleShoesPage = () => {
             </Heading>
             <Box className="price_box">
               <Flex gap={7}>
-                <Heading as="h3" size="lg">
-                  {/* ₹{SP(shoes?.mrp, shoes?.offer)} */}
-                  ₹{shoes?.sp}
+                <Heading as="h3" size="md">
+                  {shoes?.sp?.toLocaleString("en-IN", {
+                    maximumFractionDigits: 2,
+                    style: "currency",
+                    currency: "INR",
+                  })}
                 </Heading>
                 <Heading className="price" as="h3" size="md">
-                  ₹{shoes?.mrp}
+                  {shoes?.mrp?.toLocaleString("en-IN", {
+                    maximumFractionDigits: 2,
+                    style: "currency",
+                    currency: "INR",
+                  })}
                 </Heading>
                 <Heading className="offer" as="h3" size="md">
                   {`${shoes?.offer}% off`}
@@ -211,7 +218,9 @@ const SingleShoesPage = () => {
 
           <HStack>
             <Button
-            onClick={()=>dispatch({type:ADD_TO_CART,payload:shoes})}
+              onClick={() =>
+                dispatch({ type: ADD_TO_CART, payload: { ...shoes, qty: 1 } })
+              }
               rounded={"none"}
               w={"full"}
               mt={8}
