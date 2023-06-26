@@ -14,13 +14,7 @@
       "discription": "Walking Sports Shoes for Men | Soft Cushioned Insole, Slip-Resistance Training & Gym Shoes For Men  (White)",
       "brand": "puma",
       "category": "men",
-      "size": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
+      "size": [6, 7, 8, 9, 10],
       "mrp": 1199,
       "sp": 959,
       "rating": 4.5,
@@ -42,15 +36,7 @@
       "discription": "STREET-RUN Running Shoes For Men  (Grey)",
       "brand": "campus",
       "category": "men",
-      "size": [
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
+      "size": [6, 7, 8, 9, 10, 11, 12],
       "mrp": 1399,
       "sp": 1035,
       "rating": 4.1,
@@ -72,11 +58,7 @@
       "discription": "Sneakers For Men  (Black)",
       "brand": "puma",
       "category": "men",
-      "size": [
-        8,
-        9,
-        10
-      ],
+      "size": [8, 9, 10],
       "mrp": 5399,
       "sp": 1079,
       "rating": 4.3,
@@ -97,11 +79,7 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [
-        6,
-        8,
-        10
-      ],
+      "size": [6, 8, 10],
       "mrp": 2799,
       "sp": 923,
       "rating": 4.5,
@@ -122,11 +100,7 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [
-        6,
-        8,
-        10
-      ],
+      "size": [6, 8, 10],
       "mrp": 2799,
       "sp": 923,
       "rating": 4.5,
@@ -147,11 +121,7 @@
       "discription": "Athleo ATG-496 Breathable/Lightweight/Comfort/Walking/Gym/Outdoor/Trendy Running Casuals For Men  (White)",
       "brand": "action",
       "category": "men",
-      "size": [
-        6,
-        8,
-        10
-      ],
+      "size": [6, 8, 10],
       "mrp": 2799,
       "sp": 923,
       "rating": 4.5,
@@ -172,12 +142,7 @@
       "discription": "Sterlinn M Running Shoes For Men  (White)",
       "brand": "adidas",
       "category": "men",
-      "size": [
-        6,
-        7,
-        9,
-        10
-      ],
+      "size": [6, 7, 9, 10],
       "mrp": 5599,
       "sp": 2967,
       "rating": 4.3,
@@ -198,12 +163,7 @@
       "discription": "Sterlinn M Running Shoes For Men  (black)",
       "brand": "adidas",
       "category": "men",
-      "size": [
-        6,
-        7,
-        9,
-        10
-      ],
+      "size": [6, 7, 9, 10],
       "mrp": 5599,
       "sp": 2967,
       "rating": 4.3,
@@ -225,13 +185,7 @@
       "discription": "RUNFALCON 3.0 Running Shoes For Men  (Black)",
       "brand": "adidas",
       "category": "men",
-      "size": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
+      "size": [6, 7, 8, 9, 10],
       "mrp": 5999,
       "sp": 3479,
       "rating": 4.2,
@@ -253,18 +207,304 @@
       "discription": "SUPERNOVA 2 M Running Shoes For Men  (Red)",
       "brand": "adidas",
       "category": "men",
-      "size": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
+      "size": [6, 7, 8, 9, 10],
       "mrp": 9999,
       "sp": 6299,
       "rating": 4.1,
       "offer": 37,
       "color": "red"
+    },
+    {
+      "id": 11,
+      "title": "Sneakers For Women  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/i/r/c/5-girlshoe1415-5-kraasa-white-original-imagfh86jr5wdetn-bb.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/i/r/c/5-girlshoe1415-5-kraasa-white-original-imagfh86jr5wdetn-bb.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/l4rd0280/shoe/h/0/e/5-girlshoe1415-5-kraasa-white-original-imagfh86uwxkcd8c.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/7/h/w/7-girlshoe1408-kraasa-off-white-original-imagfh8663eq67x9.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/z/e/6-girlshoe1415-kraasa-burgundy-original-imagfh86fnwtja7y.jpeg?q=70"
+      ],
+      "discription": "Sneakers For Women  (White)",
+      "brand": "adidas",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 299,
+      "rating": 3.8,
+      "offer": 70,
+      "color": "white"
+    },
+    {
+      "id": 12,
+      "title": "High Tops For Women  (Pink)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/m/c/7-girlshoe1451-kraasa-pink-original-imagzv8ukbygzzg2.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/e/m/c/7-girlshoe1451-kraasa-pink-original-imagzv8ukbygzzg2.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/3/v/2/7-girlshoe1451-kraasa-pink-original-imagzv8ugeqgjvff.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/g/n/s/7-girlshoe1451-kraasa-pink-original-imagzv8utdphgzww.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/s/i/7-girlshoe1451-kraasa-pink-original-imagzv8ufathpr4u.jpeg?q=70"
+      ],
+      "discription": "High Tops For Women  (Pink)",
+      "brand": "puma",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 499,
+      "rating": 4.3,
+      "offer": 50,
+      "color": "pink"
+    },
+    {
+      "id": 13,
+      "title": "Casual Comfortable, Walking, Running Shoes For Girls For Women  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0pm3680/shoe/a/2/d/6-oscar-39-shoetopia-black-original-imagcfyhhysqjvfd.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/l0pm3680/shoe/a/2/d/6-oscar-39-shoetopia-black-original-imagcfyhhysqjvfd.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/w/1/j/8-oscar-shoetopia-black-original-imagahr2xg5fvqy4.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/q/m/j/8-oscar-shoetopia-black-original-imagahr2c5tbfgq3.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/b/x/k/8-oscar-shoetopia-black-original-imagahr2ahkbqqdk.jpeg?q=70"
+      ],
+      "discription": "Casual Comfortable, Walking, Running Shoes For Girls For Women  (Black)",
+      "brand": "campus",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1495,
+      "sp": 499,
+      "rating": 4.0,
+      "offer": 66,
+      "color": "black"
+    },
+    {
+      "id": 14,
+      "title": "White New Stylish Look Comfortable Casual Shoes",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/n/s/4-128dl-halimaf-black-original-imagmnquzg8xszw6.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/u/n/s/4-128dl-halimaf-black-original-imagmnquzg8xszw6.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/8/i/u/4-128dl-halimaf-black-original-imagmnqup5gxywud.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/w/o/4-121dil-tronistor-black-original-imagmvfmzbmbeuez.jpeg?q=70"
+      ],
+      "discription": "Megpar White New Stylish Look Comfortable Casual Shoes Womens And Girls Sneakers For Women",
+      "brand": "action",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1999,
+      "sp": 461,
+      "rating": 4.0,
+      "offer": 76,
+      "color": "white"
+    },
+    {
+      "id": 15,
+      "title": "Sneakers For Women  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/7/h/w/7-girlshoe1408-kraasa-off-white-original-imagfh8663eq67x9.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/l4rd0280/shoe/h/0/e/5-girlshoe1415-5-kraasa-white-original-imagfh86uwxkcd8c.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/7/h/w/7-girlshoe1408-kraasa-off-white-original-imagfh8663eq67x9.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/z/e/6-girlshoe1415-kraasa-burgundy-original-imagfh86fnwtja7y.jpeg?q=70"
+      ],
+      "discription": "Sneakers For Women  (White)",
+      "brand": "adidas",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 299,
+      "rating": 3.8,
+      "offer": 70,
+      "color": "white"
+    },
+    {
+      "id": 16,
+      "title": "High Tops For Women  (Pink)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/s/i/7-girlshoe1451-kraasa-pink-original-imagzv8ufathpr4u.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/s/i/7-girlshoe1451-kraasa-pink-original-imagzv8ufathpr4u.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/3/v/2/7-girlshoe1451-kraasa-pink-original-imagzv8ugeqgjvff.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/g/n/s/7-girlshoe1451-kraasa-pink-original-imagzv8utdphgzww.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/s/i/7-girlshoe1451-kraasa-pink-original-imagzv8ufathpr4u.jpeg?q=70"
+      ],
+      "discription": "High Tops For Women  (Pink)",
+      "brand": "puma",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 499,
+      "rating": 4.3,
+      "offer": 50,
+      "color": "pink"
+    },
+    {
+      "id": 17,
+      "title": "Casual Comfortable, Walking, Running Shoes For Girls For Women  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/q/m/j/8-oscar-shoetopia-black-original-imagahr2c5tbfgq3.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/q/m/j/8-oscar-shoetopia-black-original-imagahr2c5tbfgq3.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/w/1/j/8-oscar-shoetopia-black-original-imagahr2xg5fvqy4.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/q/m/j/8-oscar-shoetopia-black-original-imagahr2c5tbfgq3.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/ky7lci80/shoe/b/x/k/8-oscar-shoetopia-black-original-imagahr2ahkbqqdk.jpeg?q=70"
+      ],
+      "discription": "Casual Comfortable, Walking, Running Shoes For Girls For Women  (Black)",
+      "brand": "campus",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1495,
+      "sp": 499,
+      "rating": 4.0,
+      "offer": 66,
+      "color": "black"
+    },
+    {
+      "id": 18,
+      "title": "White New Stylish Look Comfortable Casual Shoes",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/w/o/4-121dil-tronistor-black-original-imagmvfmzbmbeuez.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/w/o/4-121dil-tronistor-black-original-imagmvfmzbmbeuez.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/8/i/u/4-128dl-halimaf-black-original-imagmnqup5gxywud.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/c/w/o/4-121dil-tronistor-black-original-imagmvfmzbmbeuez.jpeg?q=70"
+      ],
+      "discription": "Megpar White New Stylish Look Comfortable Casual Shoes Womens And Girls Sneakers For Women",
+      "brand": "action",
+      "category": "women",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1999,
+      "sp": 461,
+      "rating": 4.0,
+      "offer": 76,
+      "color": "white"
+    },
+    {
+      "id": 19,
+      "title": "Lace Sneakers For Boys  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/m/6/9/3c-sneaker-kids-meowbaby-original-imagau3647e44ssh.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/m/6/9/3c-sneaker-kids-meowbaby-original-imagau3647e44ssh.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/q/8/g/3c-sneaker-kids-meowbaby-original-imagau36p3uxvved.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/s/w/x/3c-sneaker-kids-meowbaby-original-imagau36y55yhg7z.jpeg?q=70"
+      ],
+      "discription": "Lace Sneakers For Boys  (White)",
+      "brand": "action",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1299,
+      "sp": 562,
+      "rating": 4.2,
+      "offer": 56,
+      "color": "white"
+    },
+    {
+      "id": 20,
+      "title": "Lace Sneakers For Boys  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/q/8/g/3c-sneaker-kids-meowbaby-original-imagau36p3uxvved.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/q/8/g/3c-sneaker-kids-meowbaby-original-imagau36p3uxvved.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/s/w/x/3c-sneaker-kids-meowbaby-original-imagau36y55yhg7z.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/kids-shoe/m/6/9/3c-sneaker-kids-meowbaby-original-imagau3647e44ssh.jpeg?q=70"
+      ],
+      "discription": "Lace Sneakers For Boys  (White)",
+      "brand": "action",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 1299,
+      "sp": 562,
+      "rating": 4.2,
+      "offer": 56,
+      "color": "white"
+    },
+    {
+      "id": 21,
+      "title": "Velcro Sneakers For Boys & Girls  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5ubqhb4mr.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5ubqhb4mr.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5zgyrcjnv.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5ubqhb4mr.jpeg?q=70"
+      ],
+      "discription": "Lace Sneakers For Boys  (White)",
+      "brand": "adidas",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 299,
+      "rating": 4.1,
+      "offer": 70,
+      "color": "white"
+    },
+    {
+      "id": 22,
+      "title": "Velcro Sneakers For Boys & Girls  (White)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/0/7/0/-original-imaghuj2yffgkshk.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/0/7/0/-original-imaghuj2yffgkshk.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5zgyrcjnv.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/khavrm80/kids-shoe/p/g/h/2c-b136-rsmart-original-imafxby5ubqhb4mr.jpeg?q=70"
+      ],
+      "discription": "Lace Sneakers For Boys  (White)",
+      "brand": "adidas",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 299,
+      "rating": 4.1,
+      "offer": 70,
+      "color": "white"
+    },
+    {
+      "id": 23,
+      "title": "Slip on Walking Shoes For Boys & Girls  (Black)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/d/h/x/-original-imaghqyghbabffzm.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/d/h/x/-original-imaghqyghbabffzm.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kb2jmvk0/kids-shoe/g/y/y/2c-gem-2-neobaby-original-imafsg38dtxujjgv.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kb2jmvk0/kids-shoe/g/y/y/3c-gem-2-neobaby-original-imafsg39zepgmsyf.jpeg?q=70"
+      ],
+      "discription": "Slip on Walking Shoes For Boys & Girls  (Black)",
+      "brand": "puma",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 499,
+      "sp": 249,
+      "rating": 4.1,
+      "offer": 50,
+      "color": "black"
+    },
+    {
+      "id": 24,
+      "title": "Zip Casual Boots For Girls  (Pink)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kjom6q80-0/kids-shoe/0/s/a/2-printed-boot-ideal-collection-original-imafz7yffuthrvs6.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/kjom6q80-0/kids-shoe/0/s/a/2-printed-boot-ideal-collection-original-imafz7yffuthrvs6.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kjom6q80-0/kids-shoe/i/h/o/2-printed-boot-ideal-collection-original-imafz7yfsf3jmjph.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kjom6q80-0/kids-shoe/x/t/d/2-printed-boot-ideal-collection-original-imafz7yf4cphkgcx.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/z/z/a/-original-imaghqzgwkvsghwq.jpeg?q=70"
+      ],
+      "discription": "Zip Casual Boots For Girls  (Pink)",
+      "brand": "campus",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 699,
+      "sp": 276,
+      "rating": 4.0,
+      "offer": 60,
+      "color": "pink"
+    },
+    {
+      "id": 25,
+      "title": "Velcro Running Shoes For Boys & Girls  (Light Green)",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/u/c/q/-original-imaghugxxbhavsbr.jpeg?q=70",
+      "images": [
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/kids-shoe/u/c/q/-original-imaghugxxbhavsbr.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kvwpt3k0/kids-shoe/l/r/x/8c-paw-kids-shoes-billion-original-imag8peuummqhuyj.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kvwpt3k0/kids-shoe/b/c/n/8c-paw-kids-shoes-billion-original-imag8peuct4ur3j9.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kvwpt3k0/kids-shoe/2/o/q/8c-paw-kids-shoes-billion-original-imag8peunc8rgcsb.jpeg?q=70"
+      ],
+      "discription": "Velcro Running Shoes For Boys & Girls  (Light Green)",
+      "brand": "puma",
+      "category": "kids",
+      "size": [3, 4, 5, 6, 7, 8],
+      "mrp": 999,
+      "sp": 299,
+      "rating": 4.2,
+      "offer": 70,
+      "color": "grey"
     }
   ],
   "watch": [

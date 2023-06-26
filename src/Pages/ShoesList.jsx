@@ -20,7 +20,12 @@ const ShoesList = ({ shoes }) => {
 
   return (
    
-    <Box className="shoesListBox">
+    <Box className="shoesListBox"
+    _hover={{
+      transition: ".5s",
+      transform: "scale(1.06)",
+    }}
+    >
       <Link to={`/singleShoesPage/${shoes.id}`}><Image src={shoes.images[`${imageNum}`]} /></Link>
 
       <Heading as="h5" size="sm">

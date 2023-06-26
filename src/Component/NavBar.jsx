@@ -17,10 +17,8 @@ import {
   PopoverTrigger,
   PopoverContent,
   useColorModeValue,
-  useBreakpointValue,
   useDisclosure,
   Avatar,
-  Image,
   Heading,
 } from "@chakra-ui/react";
 import {
@@ -31,14 +29,16 @@ import {
 } from "@chakra-ui/icons";
 import { Link as ReactLink } from "react-router-dom";
 import { useSelector } from "react-redux";
+import CartDrawer from "./CartDrawer";
 
 const NavBar = () => {
   const { isOpen, onToggle } = useDisclosure();
 
-  let { cart } = useSelector(
-    (store) => store.cartReducer
-  );
-  console.log(cart)
+  const { isOpen: isOpenDro, onOpen, onClose } = useDisclosure();
+  const btnRef = React.useRef();
+
+  let { cart } = useSelector((store) => store.cartReducer);
+  // console.log(cart);
 
   return (
     <Box id="NabBar">
@@ -84,7 +84,7 @@ const NavBar = () => {
           direction={"row"}
           spacing={6}
         >
-          <Box id="cart-box">
+          <Box ref={btnRef} onClick={onOpen} id="cart-box">
             <Heading className="cart-item" size={"md"}>
               {cart.length}
             </Heading>
@@ -119,6 +119,7 @@ const NavBar = () => {
       <Collapse in={isOpen} animateOpacity>
         <MobileNav />
       </Collapse>
+      <CartDrawer isOpenDro={isOpenDro} onClose={onClose} btnRef={btnRef} />
     </Box>
   );
 };
