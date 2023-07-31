@@ -7,7 +7,7 @@ let userSchema = mongoose.Schema(
     name: { type: String, required: true },
     email: { type: String, required: true },
     password: { type: String, required: true },
-    cart: [{ type: mongoose.Schema.ObjectId }],
+    cart: [{ type: mongoose.Schema.ObjectId,ref:"" }],
     addrss: [{ type: mongoose.Schema.ObjectId }],
     wishlist: [{ type: mongoose.Schema.ObjectId }],
     image: { type: String },
