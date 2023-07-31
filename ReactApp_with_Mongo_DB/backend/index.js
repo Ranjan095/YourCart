@@ -5,7 +5,9 @@ const { shoesRoute } = require("./Routes/shoesRoute");
 const { userRoute } = require("./Routes/userRoute");
 const { connection } = require("./db");
 require("dotenv").config();
+let cors = require("cors");
 let app = express();
+app.use(cors());
 app.use(express.json());
 
 app.use("/user", userRoute);

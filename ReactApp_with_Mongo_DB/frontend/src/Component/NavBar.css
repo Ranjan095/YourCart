@@ -1,0 +1,23 @@
+#NabBar {
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+#cart-box {
+    width: 40px;
+    background-image: url("../utils/photos/cart.png");
+    background-size: cover;
+    /* border: 1px solid; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+ justify-content: center;
+}
+
+.cart-item {
+    color:red;
+    border-radius: 50%;
+   background-position: center;
+   background: white;
+}

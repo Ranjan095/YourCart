@@ -47,7 +47,7 @@ let getusers = async (req, res) => {
     res.status(400).send(error.message);
   }
 };
-
+// for login
 let loginUser = async (req, res) => {
   let { email, password } = req.body;
   let user = await UserModel.findOne({ email });
@@ -59,7 +59,7 @@ let loginUser = async (req, res) => {
             { author: user.name, emai: user.emai, authorId: user._id },
             "masai"
           );
-          res.status(200).send({ msg: "Login successful", token });
+          res.status(200).send({ msg: "Login successful", token,author:user.name });
         } else {
           res.status(400).send({ msg: "!sory wrong credentials" });
         }
